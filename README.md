@@ -1,4 +1,5 @@
 # Nile Dot Com
+![Starting screen](https://github.com/TerranUp16/cnt-4714-assignment-1/blob/master/screenshots/start.png)
 This project was created under the direction of Dr. Mark Llewellyn for University of Central Florida course CNT-4714.
 
 This project simulates an "e-store". The store maintains inventory from a supplied file (default `inventory.txt` included). E-store application exposes a GUI which enables users to create and process orders based on items from `inventory.txt`. When a user finalizes an order, a transaction is generated which appends entries to `transactions.txt`.
@@ -46,3 +47,32 @@ Use your favorite text editor or viewer to open `transactions.txt` in the base d
 
 # Editing Inventory
 Use your favorite text editor to modify the contents of `inventory.txt` which is located in the base directory you cloned or extracted the code into.
+
+# Screenshots
+
+## New Order
+![start screen](https://github.com/TerranUp16/cnt-4714-assignment-1/blob/master/screenshots/start.png)
+
+## Enter First Item
+![preprocess first item](https://github.com/TerranUp16/cnt-4714-assignment-1/blob/master/screenshots/pending_process_1.png)
+
+## Process First Item
+![post-process first item](https://github.com/TerranUp16/cnt-4714-assignment-1/blob/master/screenshots/post_process_1.png)
+
+## Confirmation Dialog
+![confirmation dialog](https://github.com/TerranUp16/cnt-4714-assignment-1/blob/master/screenshots/confirm_1.png)
+
+## First Item Confirmed
+![post-confirm first item](https://github.com/TerranUp16/cnt-4714-assignment-1/blob/master/screenshots/post_confirm_1.png)
+
+## After Confirming Last Item
+![last item confirmed](https://github.com/TerranUp16/cnt-4714-assignment-1/blob/master/screenshots/post_confirm_last.png)
+
+## View Order
+![view order](https://github.com/TerranUp16/cnt-4714-assignment-1/blob/master/screenshots/view_order_5.png)
+
+## View Transaction
+![view transaction](https://github.com/TerranUp16/cnt-4714-assignment-1/blob/master/screenshots/view_transaction.png)
+
+## Transaction Log Entries
+![appended transaction log entries](https://github.com/TerranUp16/cnt-4714-assignment-1/blob/master/screenshots/transaction_log.png)
