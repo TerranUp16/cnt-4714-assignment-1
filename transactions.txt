@@ -4,3 +4,8 @@
 130920201628, 8543, "Ritchey 1 inch threaded headset - silver", $45.00, 3, 0%, $135.00, 9/13/20, 4:28:06 PM EDT
 130920201628, 1111, "Top Secret Twenty One - Janet Evanovich", $8.99, 1, 0%, $8.99, 9/13/20, 4:28:06 PM EDT
 130920201628, 7654, "Bell Stratos helmet - size Lg - blue", $230.00, 20, 20%, $3,680.00, 9/13/20, 4:28:06 PM EDT
+130920201639, 14, "Stanley #2 Philips Screwdriver", $6.95, 1, 0%, $6.95, 9/13/20, 4:39:38 PM EDT
+130920201639, 7654, "Bell Stratos helmet - size Lg - blue", $230.00, 1, 0%, $230.00, 9/13/20, 4:39:38 PM EDT
+130920201639, 23, "Tamiya 2oz paint - ferrari red", $2.39, 1, 0%, $2.39, 9/13/20, 4:39:38 PM EDT
+130920201639, 198, "Box of 10 Sharpie Roller 0.5mm", $6.50, 100, 20%, $520.00, 9/13/20, 4:39:38 PM EDT
+130920201639, 298765, "3x5 index cards - 100 count", $2.25, 1, 0%, $2.25, 9/13/20, 4:39:38 PM EDT
