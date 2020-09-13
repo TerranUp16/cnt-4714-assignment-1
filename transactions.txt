@@ -1,0 +1,6 @@
+130920201625, 245667, "Colnago jersey - size 6", $120.00, 1, 0%, $120.00, 9/13/20, 4:25:07 PM EDT
+130920201625, 1111, "Top Secret Twenty One - Janet Evanovich", $8.99, 1, 0%, $8.99, 9/13/20, 4:25:33 PM EDT
+130920201625, 4762, "HP copy paper ultra white - ream", $13.50, 20, 20%, $216.00, 9/13/20, 4:25:33 PM EDT
+130920201628, 8543, "Ritchey 1 inch threaded headset - silver", $45.00, 3, 0%, $135.00, 9/13/20, 4:28:06 PM EDT
+130920201628, 1111, "Top Secret Twenty One - Janet Evanovich", $8.99, 1, 0%, $8.99, 9/13/20, 4:28:06 PM EDT
+130920201628, 7654, "Bell Stratos helmet - size Lg - blue", $230.00, 20, 20%, $3,680.00, 9/13/20, 4:28:06 PM EDT
