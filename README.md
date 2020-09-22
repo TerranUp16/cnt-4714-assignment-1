@@ -28,9 +28,11 @@ mvn javafx:run ;
 
 ## Troubleshooting
 > `mvn` not found
+
 Please review [Maven's installation and configuration documentation](https://maven.apache.org/install.html). In particular, make sure `mvn` is configured for `PATH` for the shell/terminal you are using.
 
 > `JAVA_HOME` not found
+
 Please review [Maven's installation and configuration documentation](https://maven.apache.org/install.html). In particular, make sure `JAVA_HOME` is configured for `PATH` for the shell/terminal you are using.
 
 Please also review Oracle's documentation on this for-
